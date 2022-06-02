@@ -1,0 +1,1 @@
+# saleor-customergroup-plugin
