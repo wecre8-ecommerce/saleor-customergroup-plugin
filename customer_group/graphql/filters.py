@@ -1,5 +1,5 @@
 import django_filters
-
+from django.db.models import Q
 from saleor.graphql.core.filters import MetadataFilterBase
 from saleor.graphql.core.types.filter_input import FilterInputObjectType
 
